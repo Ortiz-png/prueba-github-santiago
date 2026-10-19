@@ -1,6 +1,6 @@
-# presentacion
+# Presentacion
 
-Santiago Ortiz
-Ficha 3407799
+Nombre: Santiago Ortiz Claros
+Ficha: 3407799
 
-aprendi a usar git
+Aprendi que GitHub sirve para guardar el codigo y trabajar con ramas.
