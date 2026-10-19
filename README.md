@@ -1,15 +1,7 @@
-# Mi prueba de github
+# mi tarea de github
 
-## Cosas que aprendi
+- git init
 
-- a crear un repositorio con git init
-- a preparar los archivos con git add
-- a guardar los cambios con git commit
+https://learn.microsoft.com
 
-Documentacion: https://learn.microsoft.com
-
-```bash
 git init
-git add .
-git commit -m "primer commit"
-```
