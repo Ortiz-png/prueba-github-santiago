@@ -1,19 +1,15 @@
-# Prueba de GitHub - Santiago Ortiz Claros
+# Mi prueba de github
 
-## Temas aprendidos en el curso
+## Cosas que aprendi
 
-- Uso de Git para el control de versiones: `git init`, `git add` y `git commit`.
-- Creación y gestión de ramas para trabajar de forma aislada con `feature/presentacion`.
-- Colaboración en GitHub mediante issues, pull requests y merges.
+- a crear un repositorio con git init
+- a preparar los archivos con git add
+- a guardar los cambios con git commit
 
-## Documentación oficial
-
-Puedes consultar la documentación en [Microsoft Learn](https://learn.microsoft.com).
-
-## Comandos básicos de Git
+Documentacion: https://learn.microsoft.com
 
 ```bash
 git init
 git add .
-git commit -m "Primer commit"
+git commit -m "primer commit"
 ```
